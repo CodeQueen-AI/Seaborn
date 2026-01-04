@@ -8,7 +8,7 @@ data = {
 }
 
 # Strip plot
-sns.stripplot(x='Department', y='Salary', data=data, color='purple', size=8, jitter=True)
+sns.stripplot(x='Department', y='Salary', data=data, size=8, jitter=True)
 
 plt.title("Salary Distribution by Department (Strip Plot)")
 plt.xlabel("Department")
