@@ -2,7 +2,6 @@ import seaborn as sns
 import matplotlib.pyplot as plt
 import pandas as pd
 
-# Sample data
 data = pd.DataFrame({
     'SepalLength': [5.1, 4.9, 6.7, 5.6, 5.9],
     'SepalWidth': [3.5, 3.0, 3.1, 2.9, 3.0],
@@ -11,7 +10,5 @@ data = pd.DataFrame({
     'Species': ['Setosa', 'Setosa', 'Virginica', 'Versicolor', 'Virginica']
 })
 
-# Pair plot
 sns.pairplot(data, hue='Species', palette='bright')
-
 plt.show()
