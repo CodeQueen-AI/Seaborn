@@ -21,7 +21,7 @@
 
 ## 📌 Seaborn Plots – One Line Definitions
 
-### 01. Scatter Plot : Shows the *relationship between two numerical variables*
+01. Scatter Plot : Shows the *relationship between two numerical variables*
 
 ### 02. Line Plotn : Shows *trends or changes over time or sequence*
 
