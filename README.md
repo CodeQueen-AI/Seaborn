@@ -19,7 +19,7 @@
 * Reports and Dashboards
 
 
-## 📌 Seaborn Plots – One Line Definitions
+## 📌 Seaborn Plots 
 
 01. Scatter Plot : Shows the *relationship between two numerical variables*
 
